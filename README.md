@@ -1,0 +1,2 @@
+# golib
+general object library
